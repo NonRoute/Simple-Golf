@@ -32,5 +32,5 @@ or download game from https://github.com/NonRoute/Simple-Golf/releases/tag/v1.0
       <img height="100" src="/images/water.png"/>
 
 6. There are 12 levels in this game. <br/>
-   After you pass every levels, you will see your score. <br/>
+   After you pass every level, you will see your score. <br/>
    <img height="300" src="/images/game-over.png"/>
