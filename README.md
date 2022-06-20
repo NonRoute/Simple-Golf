@@ -3,7 +3,7 @@ This is my first game made by Unity
 
 ## How to play
 1. Go to https://nonroute.github.io/Simple-Golf/ <br/>
-or download the game from https://github.com/NonRoute/Simple-Golf/releases/tag/v1.0
+or download the game from https://github.com/NonRoute/Simple-Golf/releases/latest
 
 2. Click play! <br/>
   <img height="300" src="/images/main-menu.png"/>
