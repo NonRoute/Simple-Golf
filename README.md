@@ -16,7 +16,9 @@ or download the game from https://github.com/NonRoute/Simple-Golf/releases/lates
 4. The goal of this game is to make the golf falls into the hole with the lowest hit possible. <br/>
   Each time you hit a golf, the score will decrease by 1.
   <img height="300" src="/images/hole.png"/>
+  
 5. Your score will increase every level based on the difficulty of each level
+
 6. There are items and special terrain in this game
     - **Coin**: increase your score by 1 <br/>
       <img height="100" src="/images/coin.png"/>
